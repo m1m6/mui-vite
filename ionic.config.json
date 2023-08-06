@@ -1,0 +1,7 @@
+{
+    "name": "Sourcya Boilerplate",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}
